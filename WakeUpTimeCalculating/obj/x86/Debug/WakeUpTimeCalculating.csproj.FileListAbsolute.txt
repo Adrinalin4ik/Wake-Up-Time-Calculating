@@ -1,0 +1,9 @@
+D:\Программы C#\WakeUpTimeCalculating\WakeUpTimeCalculating\bin\Debug\WakeUpTimeCalculating.exe
+D:\Программы C#\WakeUpTimeCalculating\WakeUpTimeCalculating\bin\Debug\WakeUpTimeCalculating.pdb
+D:\Программы C#\WakeUpTimeCalculating\WakeUpTimeCalculating\obj\x86\Debug\WakeUpTimeCalculating.Form1.resources
+D:\Программы C#\WakeUpTimeCalculating\WakeUpTimeCalculating\obj\x86\Debug\WakeUpTimeCalculating.Properties.Resources.resources
+D:\Программы C#\WakeUpTimeCalculating\WakeUpTimeCalculating\obj\x86\Debug\WakeUpTimeCalculating.csproj.GenerateResource.Cache
+D:\Программы C#\WakeUpTimeCalculating\WakeUpTimeCalculating\obj\x86\Debug\WakeUpTimeCalculating.exe
+D:\Программы C#\WakeUpTimeCalculating\WakeUpTimeCalculating\obj\x86\Debug\WakeUpTimeCalculating.pdb
+D:\Программы C#\WakeUpTimeCalculating\Love Story\WakeUpTimeCalculating\WakeUpTimeCalculating\obj\x86\Debug\WakeUpTimeCalculating.exe
+D:\Программы C#\WakeUpTimeCalculating\Love Story\WakeUpTimeCalculating\WakeUpTimeCalculating\obj\x86\Debug\WakeUpTimeCalculating.pdb

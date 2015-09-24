@@ -1,0 +1,19 @@
+D:\Программы C#\WakeUpTimeCalculating\WakeUpTimeCalculating\bin\Release\WakeUpTimeCalculating.exe
+D:\Программы C#\WakeUpTimeCalculating\WakeUpTimeCalculating\bin\Release\WakeUpTimeCalculating.pdb
+D:\Программы C#\WakeUpTimeCalculating\WakeUpTimeCalculating\obj\x86\Release\WakeUpTimeCalculating.Form1.resources
+D:\Программы C#\WakeUpTimeCalculating\WakeUpTimeCalculating\obj\x86\Release\WakeUpTimeCalculating.Properties.Resources.resources
+D:\Программы C#\WakeUpTimeCalculating\WakeUpTimeCalculating\obj\x86\Release\WakeUpTimeCalculating.csproj.GenerateResource.Cache
+D:\Программы C#\WakeUpTimeCalculating\WakeUpTimeCalculating\obj\x86\Release\WakeUpTimeCalculating.exe
+D:\Программы C#\WakeUpTimeCalculating\WakeUpTimeCalculating\obj\x86\Release\WakeUpTimeCalculating.pdb
+D:\Программы C#\WakeUpTimeCalculating\WakeUpTimeCalculating\obj\x86\Release\WakeUpTimeCalculating.Form2.resources
+D:\Программы C#\WakeUpTimeCalculating\WakeUpTimeCalculating\obj\x86\Release\WakeUpTimeCalculating.csprojResolveAssemblyReference.cache
+D:\Программы C#\WakeUpTimeCalculating\Love Story\WakeUpTimeCalculating\WakeUpTimeCalculating\obj\x86\Release\WakeUpTimeCalculating.exe
+D:\Программы C#\WakeUpTimeCalculating\Love Story\WakeUpTimeCalculating\WakeUpTimeCalculating\obj\x86\Release\WakeUpTimeCalculating.pdb
+D:\Программы C#\WakeUpTimeCalculating\Love Story\WakeUpTimeCalculating\WakeUpTimeCalculating\bin\Release\WakeUpTimeCalculating.exe
+D:\Программы C#\WakeUpTimeCalculating\Love Story\WakeUpTimeCalculating\WakeUpTimeCalculating\bin\Release\WakeUpTimeCalculating.pdb
+D:\Программы C#\WakeUpTimeCalculating\Love Story\WakeUpTimeCalculating\WakeUpTimeCalculating\obj\x86\Release\WakeUpTimeCalculating.csprojResolveAssemblyReference.cache
+D:\Программы C#\WakeUpTimeCalculating\Love Story\WakeUpTimeCalculating\WakeUpTimeCalculating\obj\x86\Release\WakeUpTimeCalculating.Form1.resources
+D:\Программы C#\WakeUpTimeCalculating\Love Story\WakeUpTimeCalculating\WakeUpTimeCalculating\obj\x86\Release\WakeUpTimeCalculating.Form2.resources
+D:\Программы C#\WakeUpTimeCalculating\Love Story\WakeUpTimeCalculating\WakeUpTimeCalculating\obj\x86\Release\WakeUpTimeCalculating.Form3.resources
+D:\Программы C#\WakeUpTimeCalculating\Love Story\WakeUpTimeCalculating\WakeUpTimeCalculating\obj\x86\Release\WakeUpTimeCalculating.Properties.Resources.resources
+D:\Программы C#\WakeUpTimeCalculating\Love Story\WakeUpTimeCalculating\WakeUpTimeCalculating\obj\x86\Release\WakeUpTimeCalculating.csproj.GenerateResource.Cache
